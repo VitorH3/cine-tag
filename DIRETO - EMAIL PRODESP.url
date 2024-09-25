@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL=https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637420958635741546.ODIwNDVlNmYtOWE0ZS00NzE3LTkwY2YtNjE4MGZmNDMwZDY1YjQzNDlhYjgtNDFiZS00MWFkLWE1ZjYtMmM3NzUyNDVmZjk4&ui_locales=pt-BR&mkt=pt-BR&client-request-id=1d80af06-855c-4e9d-b3f3-948e069a2ece&state=JfQjC1XW9JgPjRbAKOwdsgHPrCjyV1QwvG_fh8E7WuThn2INATv3nGe7jBnJh_Hz6-hagYfRULUpyOUI0QHprc8DZH2OsREoyW8vTpxvlSOJSvB8oEHUFOB-iOIV1AmUChPUOKr9kvFJjlavoO92TC2S_DIn4pWEO5LF5Ij1TdXCjvzIZKD6r4c5FKBLQlDPO3FohT2atlNh64VRVfr_RJVtE1n6anlhazRLsyd0JKv7ir-M8hZ-lU2wc26dhLDuKE4fzk7kYRvJGZuOysW89w&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.6.0.0&sso_reload=true
+IconFile=C:\WINDOWS\system32\SHELL32.dll
+IconIndex=156
+HotKey=0
